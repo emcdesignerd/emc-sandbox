@@ -1,0 +1,45 @@
+@mixin button-emc {
+  font-family: $font__main;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+
+// https://www.sassmeister.com/gist/c88f9357661530a02f9b
+$breakpoints: (
+  small: 480px,
+  medium: 720px,
+  large: 960px,
+  xlarge: 1200px,
+);
+@mixin breakpoint($name) {
+  @if not map-has-key($breakpoints, $name) {
+    @warn "Warning: `#{$name}` is not a valid breakpoint name.";
+  } @else {
+    @media (min-width: map-get($breakpoints, $name)) {
+      @content;
+    }
+  }
+}
+
+// .content {
+//   font: 1em/1.5 Helvetica, sans-serif;
+//   width: 90%;
+//   margin: 1em auto;
+
+//   @include breakpoint(small) {
+//     font-size: 1.2em;
+//   }
+//   @include breakpoint(medium) {
+//     font-size: 1.4em;
+//     width: 30em;
+//   }
+//   @include breakpoint(large) {
+//     font-size: 1.6em;
+//   }
+//   @include breakpoint(xlarge) {
+//     font-size: 1.8em;
+//   }
+// }

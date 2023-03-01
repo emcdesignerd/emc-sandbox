@@ -1,0 +1,26 @@
+// Pulled from: https://sass-guidelin.es/#architecture
+
+// Import variables and mixins.
+@import "abstracts/abstracts";
+
+@import 'base/reset';
+@import 'base/typography';
+
+@import 'layout/navigation';
+// @import 'layout/grid';
+@import 'layout/header';
+@import 'layout/footer';
+// @import 'layout/sidebar';
+// @import 'layout/forms';
+
+@import 'components/buttons';
+
+@import 'pages/home';
+@import 'pages/contact';
+
+@import 'themes/theme';
+// @import 'themes/admin';
+
+body p{
+  color: green !important;
+}
