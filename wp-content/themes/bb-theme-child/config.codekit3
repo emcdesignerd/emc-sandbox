@@ -40,7 +40,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/dist\/css\/_abstracts.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -55,7 +55,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/scss\/dist\/css\/_functions.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -70,7 +70,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/scss\/dist\/css\/_mixins.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -85,7 +85,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/scss\/dist\/css\/_colors.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -100,7 +100,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/scss\/dist\/css\/_columns.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -115,7 +115,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/scss\/dist\/css\/_structure.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -130,7 +130,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/scss\/dist\/css\/_typography.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -145,7 +145,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/dist\/css\/_reset.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -160,7 +160,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/dist\/css\/_typography.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -175,7 +175,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/dist\/css\/_buttons.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -190,7 +190,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/dist\/css\/_footer.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -205,7 +205,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/dist\/css\/_forms.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -220,7 +220,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/dist\/css\/_grid.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -235,7 +235,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/dist\/css\/_header.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -250,7 +250,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/dist\/css\/_navigation.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -265,7 +265,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/dist\/css\/_sidebar.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -280,7 +280,7 @@
       "oA" : 0,
       "oAP" : "\/assets\/dist\/css\/main.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -295,7 +295,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/dist\/css\/_contact.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -310,7 +310,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/dist\/css\/_home.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -325,7 +325,7 @@
       "oA" : 1,
       "oAP" : "\/assets\/src\/dist\/css\/_theme.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -1834,7 +1834,7 @@
       "cssoStyle" : 0,
       "decimalPrecision" : 10,
       "emitCharset" : 1,
-      "outputStyle" : 0,
+      "outputStyle" : 2,
       "purgeCSSStyle" : 0,
       "shouldRunAutoprefixer" : 0,
       "shouldRunBless" : 0,
